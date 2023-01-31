@@ -1,2 +1,2 @@
 # Sample-LoginPage
-Using html &amp; Bootstrap 5 
+Using html & soft ui & Bootstrap5 
